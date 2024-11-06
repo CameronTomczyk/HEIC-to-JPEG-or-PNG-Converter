@@ -10,7 +10,7 @@ This is a simple Python GUI app I built to make converting HEIC images easier. W
 ## How to Use
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/yourusername/HEIC-Converter.git
+   git clone https://github.com/CameronTomczyk/HEIC-to-JPEG-or-PNG-Converter.git
    ```
 2. Install the dependencies:
    ```
