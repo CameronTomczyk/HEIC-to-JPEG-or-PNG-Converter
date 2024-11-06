@@ -2,7 +2,7 @@
 # HEIC Converter
 
 This tool is especially useful if you use an iPhone with Windows, as all iPhone photos are imported as `.heic` files. 
-I created this to make it easier and faster to transfer photos from my phone to platforms like eBay or Facebook Marketplace.
+I created this to make it easier and faster to transfer photos from my phone to Windows for platforms like eBay or Facebook Marketplace.
 
 This is a simple Python GUI app I built to make converting HEIC images easier. With this tool, you can batch-convert HEIC files in a selected folder to either JPEG or PNG, plus have the option to delete the original HEIC files once they’re converted. It’s a quick way to manage image conversions without needing extra software.
 
