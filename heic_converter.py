@@ -1,3 +1,6 @@
+# Doing my best to explain what is going on here in the comments
+#haven't made any code for public release and also am trying to get better with different libraries in Python. Thanks!
+
 # Import necessary libraries
 import os  # for handling file directories
 from tkinter import Tk, Button, Label, filedialog, Checkbutton, IntVar, Text, Scrollbar, END, RIGHT, Y, Frame, StringVar, OptionMenu  # for GUI
