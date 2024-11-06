@@ -28,9 +28,6 @@ This is a simple Python GUI app I built to make converting HEIC images easier. W
 
 ## Screenshots
 
-**HEIC Conversion Tool In Use**  
-![HEIC Conversion Tool In Use](screenshots/HEIC%20Conversion%20Tool%20In%20Use%20Screenshot.png)
-
 **HEIC Conversion Tool Interface**  
 ![HEIC Conversion Tool Screenshot](screenshots/HEIC%20Conversion%20Tool%20Screenshot.png)
 
