@@ -49,4 +49,4 @@ python heic_converter.py
 
 ---
 
-Let me know what you think, or feel free to fork it and add more functionality!
+Let me know what you think, or feel free to fork it and add more functionality! Working on an EXE.
