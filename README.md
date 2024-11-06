@@ -1,3 +1,4 @@
+
 # HEIC Converter
 
 This is a simple Python GUI app I built to make converting HEIC images easier. With this tool, you can batch-convert HEIC files in a selected folder to either JPEG or PNG, plus have the option to delete the original HEIC files once they’re converted. It’s a quick way to manage image conversions without needing extra software.
@@ -10,26 +11,39 @@ This is a simple Python GUI app I built to make converting HEIC images easier. W
 - **File Management**: Optionally delete original `.heic` files automatically after conversion.
 - **User-Friendly GUI**: Includes a format selection dropdown, start button, and live log showing each file’s status as it converts.
 
-## How to Use
-1. Clone the repository to your local machine:
-   ```
+## Setup and Usage
+
+### Step-by-Step Instructions
+1. **Clone the repository** to your local machine and navigate into the project folder (no need to run as administrator):
+   ```bash
    git clone https://github.com/CameronTomczyk/HEIC-to-JPEG-or-PNG-Converter.git
    cd HEIC-to-JPEG-or-PNG-Converter
    ```
-2. Install the dependencies:
-   ```
+
+2. **Install the dependencies**:
+   ```bash
    pip install -r requirements.txt
    ```
-3. Run the program:
-   ```
+
+3. **Run the program**:
+   ```bash
    python heic_converter.py
    ```
+
+### Quick Start: All-in-One Script
+To clone the repository, install dependencies, and run the program in one go, you can use this single script:
+```bash
+git clone https://github.com/CameronTomczyk/HEIC-to-JPEG-or-PNG-Converter.git
+cd HEIC-to-JPEG-or-PNG-Converter
+pip install -r requirements.txt
+python heic_converter.py
+```
 
 ### Tech Details
 - **Python**
 - **tkinter** for the GUI
 - **Pillow and pillow-heif** for handling HEIC to JPEG/PNG conversion
 
-
+---
 
 Let me know what you think, or feel free to fork it and add more functionality!
