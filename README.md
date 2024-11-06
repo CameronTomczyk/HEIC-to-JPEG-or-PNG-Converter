@@ -26,4 +26,13 @@ This is a simple Python GUI app I built to make converting HEIC images easier. W
 - **tkinter** for the GUI
 - **Pillow and pillow-heif** for handling HEIC to JPEG/PNG conversion
 
+## Screenshots
+
+**Main Interface**  
+![Main Interface](screenshots/main_interface.png)
+
+**Folder Selection**  
+![Folder Selection](screenshots/folder_selection.png)
+
+
 Let me know what you think, or feel free to fork it and add more functionality!
