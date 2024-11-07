@@ -16,22 +16,6 @@ This is a simple Python GUI app I built to make converting HEIC images easier. W
 
 ## Setup and Usage
 
-### Step-by-Step Instructions
-1. **Clone the repository** to your local machine and navigate into the project folder:
-   ```bash
-   git clone https://github.com/CameronTomczyk/HEIC-to-JPEG-or-PNG-Converter.git
-   cd HEIC-to-JPEG-or-PNG-Converter
-   ```
-
-2. **Install the dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the program**:
-   ```bash
-   python heic_converter.py
-   ```
 
 ### Quick Start: All-in-One Script
 To clone the repository, install dependencies, and run the program in one go, you can use this single script:
